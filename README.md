@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👋 Olá, Seja Bem-Vindo(a)!
+![Anurag´s GitHub stats](https://github-readme-stats.vercel.app/api?username=ericktechx&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericktechx&layout=compact&langs_count=16&theme=vue-dark)
 
-<!--
-**ericktechx/ericktechx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ #
 
-Here are some ideas to get you started:
+### 🧑‍💻 Sobre Mim:
+Conheci a programação no final de 2021 por recomendação de um amigo, desde lá me interessei. Comecei a procurar cursos, vídeos e informações através de blogs. No momento
+apenas estudo e crio projetos para desenvolvimento pessoal, procuro obter conhecimentos no qual usarei em um futuro próximo, tendo em vista o mundo open-source podendo ajudar 
+outras pessoas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Minhas Linguagens em Estudo:
+<div style="display: inline_block">
+  <img align="center" alt="" Height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="" Height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="" Height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+<br>
+Desejo estudar às áreas de conhecimento alternando-as, podendo entender sua função, sem a pressão de escolher previamente minha área de atuação.
