@@ -1,6 +1,6 @@
 # 👋 Olá, Seja Bem-Vindo(a)!
-![Anurag´s GitHub stats](https://github-readme-stats.vercel.app/api?username=ericktechx&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericktechx&layout=compact&langs_count=16&theme=vue-dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericktechx&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericktechx&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
  #
 
