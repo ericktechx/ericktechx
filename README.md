@@ -79,7 +79,7 @@ Acredito no poder do open-source e na colaboração entre desenvolvedores. Sempr
 <img 
     align="left"
     alt="GitHub Stats"
-    height="200px"
+    height="170px"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=ericktechx&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br"
 />
@@ -87,7 +87,7 @@ Acredito no poder do open-source e na colaboração entre desenvolvedores. Sempr
 <img 
     align="left"
     alt="GitHub Stats"
-    height="200px"
+    height="170px"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericktechx&layout=compact&theme=transparent&custom_title=Tecnologias"
 />
