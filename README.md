@@ -19,19 +19,13 @@ Sou apaixonado por tecnologia, programação, jogos, leitura e cinema. Tenho gra
     <tr>
       <td>
         <kbd align="center">
-          <kbd><b>🎨 Front-end</b></kbd>
+          <kbd><b>🎨 Front & Back ⚙️</b></kbd>
           <br><br>
           <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/>
           <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/>
-          <img width="35px" src="https://img.icons8.com/?size=100&id=106036&format=png&color=F7DF1E" title="JavaScript"/>
-        </kbd>
-      </td>
-      <td>
-        <kbd align="center">
-          <kbd><b>⚙️ Back-end</b></kbd>
-          <br><br>
+          <img width="36px" src="https://img.icons8.com/?size=100&id=106036&format=png&color=F7DF1E" title="JavaScript"/>
           <img width="35px" src="https://devicon-website.vercel.app/api/c/original.svg" title="C"/>
-          <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>
+          <img width="37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>       
         </kbd>
       </td>
       <td>
@@ -39,6 +33,7 @@ Sou apaixonado por tecnologia, programação, jogos, leitura e cinema. Tenho gra
           <kbd><b>🗄️ DBs</b></kbd>
           <br><br>
           <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL"/>
+          <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" title="SQLite"/>
         </kbd>
       </td>
       <td>
@@ -48,6 +43,8 @@ Sou apaixonado por tecnologia, programação, jogos, leitura e cinema. Tenho gra
           <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/>
           <img width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" title="Windows"/>
           <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+          <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VsCode"/>
+          <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" title="Postman"/>
         </kbd>
       </td>
     </tr>
